@@ -41,7 +41,7 @@ Need ruby 2.4.9
 - `bundle exec rake db:seed` - seed database with basic data
 
 #### Run application
-- `bundle exec rackup -p 1234 -o 0.0.0.0` - Launch web application on port `1234`
+- `bundle exec rackup --port 1234 --host 0.0.0.0` - Launch web application on port `1234`
 
 #### Environment variables
 - `DATABASE_URL` - url to database e.g `postgres://{user}:{password}@{hostname}:{port}/{database-name}`
