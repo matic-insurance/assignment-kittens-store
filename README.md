@@ -22,6 +22,7 @@ In order to present MVP to the stakeholders, we should build and deploy the appl
 
 - Use AWS as primary Cloud platfrom
 - Use Terraform as a main Infrastructure provisioning tool
+- Use Helm as primary tools for organizing deployment manifests
 - Automation - who likes to perform manual steps?
 - Configuration - how can we adopt a similar solution for other products/flows/technologies?
 - Code - infrastructure/provision as a code works the best to be readable for all engineers, maintain truth and avoid any hidden manual configurations.
