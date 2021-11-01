@@ -20,6 +20,10 @@ Help us build an automated pipeline for any new code merge/commit that:
 
 As you work on your solution you will inevitably have questions - please send all inquiries via Slack. We are happy to assist and help
 
+### Tools
+
+You are free to use any tool, infrastructure, technology you would like. However, it would be nice to see how you can use **AWS** to solve the task.
+
 ### Requirements
 
 We would like to see a solution that has following traits:
