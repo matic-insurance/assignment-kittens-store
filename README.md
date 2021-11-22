@@ -43,6 +43,9 @@ Need ruby 2.4.9
 - `bundle exec rake db:migrate` - migrate db to latest version
 - `bundle exec rake db:seed` - seed database with basic data
 
+#### Run tests
+- `bundle exec rspec`
+
 #### Run application
 
 - `bundle exec rackup --port 1234 --host 0.0.0.0` - Launch web application on port `1234`
