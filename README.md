@@ -22,7 +22,7 @@ As you work on your solution you will inevitably have questions - please send al
 
 ### Tools
 
-You are free to use any tool, infrastructure, technology you would like. However, it would be nice to see how you can use **AWS** to solve the task.
+There are no limitations to using some particular technology or tools. However, it would be nice to see how you can use **AWS** and **Terraform** to solve the task.
 
 ### Requirements
 
