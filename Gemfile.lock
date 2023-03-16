@@ -24,7 +24,7 @@ GEM
     minitest (5.14.4)
     mustermann (1.0.3)
     pg (0.21.0)
-    rack (2.2.3)
+    rack (2.2.6.4)
     rack-protection (2.0.3)
       rack
     rack-test (1.1.0)
